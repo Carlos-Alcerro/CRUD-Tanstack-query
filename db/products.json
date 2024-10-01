@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": "e946",
+      "name": "Carlos Alcerro ggfgf",
+      "description": "wwwwwfggf",
+      "price": "1000",
+      "inStock": true
+    },
+    {
+      "id": "12ea",
+      "name": "Carlos Alcerro ggfgf",
+      "description": "wwwwwfggf",
+      "price": "1000",
+      "inStock": true
+    }
+  ]
+}
